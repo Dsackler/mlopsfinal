@@ -1,0 +1,5 @@
+outs:
+- md5: a32a95d000f7583af0631f22be1c6dbf
+  size: 160087
+  hash: md5
+  path: car_price_prediction_.csv
